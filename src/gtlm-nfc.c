@@ -573,7 +573,7 @@ void _on_property_changed (GDBusObjectManagerClient *manager,
             g_dbus_object_get_object_path(G_DBUS_OBJECT(object_proxy)), parameters_str);
     g_debug("Invalidated properties:");
     while (*invalidated_properties != NULL) {
-        g_print(*invalidated_properties);
+        g_debug("\t%s", *invalidated_properties);
         invalidated_properties++;
     }
     g_free(parameters_str);
