@@ -1,0 +1,16 @@
+# Nicked the idea/template for uninstalled development from gstreamer
+# To use this, run in your plugin/extension source directory:
+# PKG_CONFIG_PATH=/path/to/source/tree/of/libtlm-nfc ./configure
+#
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@abs_top_builddir@/src
+
+Name: @PACKAGE_NAME@
+Description: Helper library used by user management middleware to do NFC communication
+Version: @PACKAGE_VERSION@
+URL: @PACKAGE_URL@
+Requires: glib-2.0 >= 2.30 gio-2.0 gio-unix-2.0 gmodule-2.0
+Libs: @abs_top_builddir@/src/libtlm-nfc.la
+Cflags: -I${includedir}

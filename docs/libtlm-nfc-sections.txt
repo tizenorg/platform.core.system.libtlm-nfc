@@ -1,0 +1,17 @@
+<SECTION>
+<FILE>gtlm-nfc</FILE>
+<TITLE>GTlmNfc</TITLE>
+GTlmNfcError
+gtlm_nfc_write_username_password
+<SUBSECTION Standard>
+GTLM_NFC
+GTLM_NFC_CLASS
+GTLM_NFC_GET_CLASS
+GTlmNfc
+GTlmNfcClass
+G_IS_TLM_NFC
+G_IS_TLM_NFC_CLASS
+G_TYPE_TLM_NFC
+gtlm_nfc_get_type
+</SECTION>
+

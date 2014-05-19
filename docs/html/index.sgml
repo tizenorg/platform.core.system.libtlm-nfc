@@ -1,0 +1,17 @@
+<ONLINE href="http://[FIXME]/libtlm-nfc/index.html">
+<ANCHOR id="GTlmNfc" href="libtlm-nfc/GTlmNfc.html">
+<ANCHOR id="GTlmNfc.functions" href="libtlm-nfc/GTlmNfc.html#GTlmNfc.functions">
+<ANCHOR id="GTlmNfc.signals" href="libtlm-nfc/GTlmNfc.html#GTlmNfc.signals">
+<ANCHOR id="GTlmNfc.other" href="libtlm-nfc/GTlmNfc.html#GTlmNfc.other">
+<ANCHOR id="GTlmNfc.object-hierarchy" href="libtlm-nfc/GTlmNfc.html#GTlmNfc.object-hierarchy">
+<ANCHOR id="GTlmNfc.includes" href="libtlm-nfc/GTlmNfc.html#GTlmNfc.includes">
+<ANCHOR id="GTlmNfc.description" href="libtlm-nfc/GTlmNfc.html#GTlmNfc.description">
+<ANCHOR id="GTlmNfc.functions_details" href="libtlm-nfc/GTlmNfc.html#GTlmNfc.functions_details">
+<ANCHOR id="gtlm-nfc-write-username-password" href="libtlm-nfc/GTlmNfc.html#gtlm-nfc-write-username-password">
+<ANCHOR id="GTlmNfc.other_details" href="libtlm-nfc/GTlmNfc.html#GTlmNfc.other_details">
+<ANCHOR id="GTlmNfcError" href="libtlm-nfc/GTlmNfc.html#GTlmNfcError">
+<ANCHOR id="GTlmNfc.signal-details" href="libtlm-nfc/GTlmNfc.html#GTlmNfc.signal-details">
+<ANCHOR id="GTlmNfc-no-record-found" href="libtlm-nfc/GTlmNfc.html#GTlmNfc-no-record-found">
+<ANCHOR id="GTlmNfc-record-found" href="libtlm-nfc/GTlmNfc.html#GTlmNfc-record-found">
+<ANCHOR id="GTlmNfc-tag-found" href="libtlm-nfc/GTlmNfc.html#GTlmNfc-tag-found">
+<ANCHOR id="GTlmNfc-tag-lost" href="libtlm-nfc/GTlmNfc.html#GTlmNfc-tag-lost">

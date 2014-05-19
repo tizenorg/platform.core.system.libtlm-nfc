@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE book PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<book xmlns="http://www.devhelp.net/book" title="libtlm-nfc Reference Manual" link="index.html" author="" name="libtlm-nfc" version="2" language="c">
+  <chapters>
+    <sub name="The library API" link="ch01.html">
+      <sub name="GTlmNfc" link="GTlmNfc.html"/>
+    </sub>
+    <sub name="Object Hierarchy" link="object-tree.html"/>
+    <sub name="API Index" link="api-index-full.html"/>
+    <sub name="Index of deprecated API" link="deprecated-api-index.html"/>
+  </chapters>
+  <functions>
+    <keyword type="function" name="gtlm_nfc_write_username_password ()" link="GTlmNfc.html#gtlm-nfc-write-username-password"/>
+    <keyword type="enum" name="enum GTlmNfcError" link="GTlmNfc.html#GTlmNfcError"/>
+    <keyword type="signal" name="The “no-record-found” signal" link="GTlmNfc.html#GTlmNfc-no-record-found"/>
+    <keyword type="signal" name="The “record-found” signal" link="GTlmNfc.html#GTlmNfc-record-found"/>
+    <keyword type="signal" name="The “tag-found” signal" link="GTlmNfc.html#GTlmNfc-tag-found"/>
+    <keyword type="signal" name="The “tag-lost” signal" link="GTlmNfc.html#GTlmNfc-tag-lost"/>
+  </functions>
+</book>
